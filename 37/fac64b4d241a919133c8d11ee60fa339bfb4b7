@@ -1,0 +1,26 @@
+03-orchestration/docker-compose.yml
+  h_f7e317096c6896 1-71
+03-orchestration/flows/6_multi_agent_research.yaml
+  h_f7e317096c6896 1-102
+03-orchestration/flows/3_rag_with_websearch.yaml
+  h_f7e317096c6896 1-20
+03-orchestration/flows/4_simple_agent.yaml
+  h_f7e317096c6896 1-91
+03-orchestration/flows/2_chat_with_rag.yaml
+  h_f7e317096c6896 1-50
+03-orchestration/flows/1_chat_without_rag.yaml
+  h_f7e317096c6896 1-35
+03-orchestration/flows/5_web_research_agent.yaml
+  h_f7e317096c6896 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "37fac64b4d241a919133c8d11ee60fa339bfb4b7",
+  "prompts": {},
+  "humans": {
+    "h_f7e317096c6896": {
+      "author": "Jin Jun <15855240+jwaycube@users.noreply.github.com>"
+    }
+  }
+}
