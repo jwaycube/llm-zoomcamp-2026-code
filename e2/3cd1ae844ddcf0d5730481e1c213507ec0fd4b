@@ -1,0 +1,26 @@
+.gitignore
+  h_f7e317096c6896 1-3
+.python-version
+  h_f7e317096c6896 1
+check_env.ipynb
+  h_f7e317096c6896 1-39
+main.py
+  h_f7e317096c6896 1-6
+pyproject.toml
+  h_f7e317096c6896 1-23
+src/llm_zoomcamp_2026_code/__init__.py
+  h_f7e317096c6896 1-2
+uv.lock
+  h_f7e317096c6896 1-1940
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e23cd1ae844ddcf0d5730481e1c213507ec0fd4b",
+  "prompts": {},
+  "humans": {
+    "h_f7e317096c6896": {
+      "author": "Jin Jun <15855240+jwaycube@users.noreply.github.com>"
+    }
+  }
+}
