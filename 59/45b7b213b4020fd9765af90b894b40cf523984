@@ -1,0 +1,29 @@
+.gitignore
+  h_f7e317096c6896 4
+  h_f7e317096c6896 3
+01-agentic-rag-codify-validation.ipynb
+  h_f7e317096c6896 6,10-74,76,78,80-112,114-121,140
+01-agentic-rag-codify.ipynb
+  h_f7e317096c6896 1-328
+01-agentic-rag-high-level.ipynb
+  h_f7e317096c6896 1-719
+pyproject.toml
+  h_f7e317096c6896 16
+src/ingest.py
+  h_f7e317096c6896 1-28
+src/rag_helper.py
+  h_f7e317096c6896 1-80
+uv.lock
+  h_f7e317096c6896 942,952-969,1140-1160,1796-1808
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5945b7b213b4020fd9765af90b894b40cf523984",
+  "prompts": {},
+  "humans": {
+    "h_f7e317096c6896": {
+      "author": "Jin Jun <15855240+jwaycube@users.noreply.github.com>"
+    }
+  }
+}
