@@ -1,0 +1,48 @@
+02-vector-search-onnx/download.py
+  h_f7e317096c6896 1-48
+.gitignore
+  h_f7e317096c6896 5
+  h_f7e317096c6896 4
+02-vector-search-onnx/embedder.py
+  h_f7e317096c6896 1-38
+02-vector-search/pyproject.toml
+  h_f7e317096c6896 1-13,15-16,18-20
+  h_f7e317096c6896 14,17
+02-vector-search-onnx/.python-version
+  h_f7e317096c6896 1
+02-vector-search-onnx/ingest.py
+  h_f7e317096c6896 1-30
+02-vector-search-onnx/main.py
+  h_f7e317096c6896 1-6
+02-vector-search-onnx/onnx-learning.ipynb
+  h_f7e317096c6896 1-184
+02-vector-search-onnx/pyproject.toml
+  h_f7e317096c6896 1-19
+02-vector-search-onnx/uv.lock
+  h_f7e317096c6896 1-1910
+02-vector-search/.python-version
+  h_f7e317096c6896 1
+02-vector-search/02-vector-search-vectorising.ipynb
+  h_f7e317096c6896 1-153
+02-vector-search/02-vector-search-walkthrough.ipynb
+  h_f7e317096c6896 1-1254
+02-vector-search/ingest.py
+  h_f7e317096c6896 1-30
+02-vector-search/main.py
+  h_f7e317096c6896 1-6
+02-vector-search/rag_helper.py
+  h_f7e317096c6896 1-81
+02-vector-search/uv.lock
+  h_f7e317096c6896 1-2707
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "fbb8fc89511e63f69d0e48616ecefc01e7463329",
+  "prompts": {},
+  "humans": {
+    "h_f7e317096c6896": {
+      "author": "Jin Jun <15855240+jwaycube@users.noreply.github.com>"
+    }
+  }
+}
